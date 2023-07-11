@@ -1,3 +1,4 @@
+import React from "react";
 import { Recents } from "@pages";
 import type { NextPage } from "next";
 

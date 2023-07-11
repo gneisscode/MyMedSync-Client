@@ -1,3 +1,4 @@
+import React from "react";
 import { ResetPassword } from "@pages";
 import type { NextPage } from "next";
 

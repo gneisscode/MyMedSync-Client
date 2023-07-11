@@ -1,3 +1,4 @@
+import React from "react";
 import { Overview } from "@pages";
 import type { NextPage } from "next";
 

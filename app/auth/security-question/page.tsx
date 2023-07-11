@@ -1,3 +1,4 @@
+import React from "react";
 import { SecurityQuestion } from "@pages";
 import type { NextPage } from "next";
 
